@@ -9,7 +9,7 @@ The final output of this project is an interactive map of Denver that displays n
 * **Data** : This folder contains the data sources used for this project. All of the data sources are publicly available datasets from the state of Colorado
 * **Opioid Dataset Crime** : This is a Jupyter notebook that contains the python code and output for the analysis
 * **Map_Drug_Final.html** : This is the html file that displays the interactive map
-* **Neighborhoods_Distance_from_Clinics.Pmg** : This is a chart of neighborhoods sorted by average distance from closest drug treatment clinic
+* **Neighborhoods_Distance_from_Clinics.Png** : This is a chart of neighborhoods sorted by average distance from closest drug treatment clinic
 * **requirements.txt** : These are the necessary packages to run the analysis
 * **ColoradoCDO_AnalyticsChallenge_Final_Submission_Opioid-SOS** : This is the presentation that provides an overview of the analysis
 
