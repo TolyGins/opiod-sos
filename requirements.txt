@@ -1,0 +1,7 @@
+pandas==0.20.2
+folium==0.2.1
+geopy==1.11.0
+requests==2.18.4
+Shapely==1.6.4.post2
+matplotlib==1.5.1
+numpy==1.15.3
